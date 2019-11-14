@@ -1,0 +1,21 @@
+{
+    "name": "oldlei/ceshi",
+    "description": "测试包",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oldlei",
+            "email": "814084188@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "oldlei\\": "src/"
+        }
+    }
+}
