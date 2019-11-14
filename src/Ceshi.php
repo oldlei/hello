@@ -8,4 +8,7 @@ class Ceshi{
     public function ceshi(){
         return 'ceshi';
     }
+    public function hh(){
+        return 'asdasd';
+    }
 }
